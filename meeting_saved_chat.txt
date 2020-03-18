@@ -1,0 +1,113 @@
+14:06:25	 From Paul's O'Neill - Ohio, USA : Meet more than once a week?
+14:06:52	 From Paul's O'Neill - Ohio, USA : Al Brooks
+14:07:03	 From Paul's O'Neill - Ohio, USA : Oops Fred Brooks
+14:09:04	 From Sara : would be possible to have 2 weeks break since everybody is going through a hard time right now. At least to catch up on the work affected by limited access to the lab
+14:09:24	 From Ben Shanghai : for those who are confined home, is there any output or input devices we should buy for our arduinos for the next weeks?
+14:10:48	 From Paul's O'Neill - Ohio, USA : Perhaps previous students can offer their boards from previous years?
+14:11:02	 From DilijanLab Azniv : What about the people who are completely quarantined and can’t have access to anything?
+14:11:51	 From Paul's O'Neill - Ohio, USA : Reminder, virus can live on surface for 3 days.  Quarantine cardboard packages, boards, etc.
+14:15:38	 From engineering : MCU is great.  It is cool to see what others are doing .  plus our students used to speak to other students in other labs
+14:16:11	 From Paul's O'Neill - Ohio, USA : Can we have a list who is sick and pray
+14:29:17	 From Saverio Shanghai : there are also dxf
+14:29:26	 From Saverio Shanghai : it's been around for years
+14:30:34	 From Saverio Shanghai : http://winterdienst.info/50-digital-wood-joints-by-jochen-gros/
+14:31:17	 From Maciek Naskret : and some more cnc joints https://pin.it/3Z8kx2P
+14:32:07	 From jun : https://www.thingiverse.com/thing:169723
+14:36:04	 From matthewsolah : There are devices that use a can of compressed air to make a noise that scares the cat
+14:37:58	 From Ben Shanghai : https://ecosia.zendesk.com/hc/en-us/articles/207640095-How-do-I-make-Ecosia-my-default-search-engine-in-Firefox-
+14:58:28	 From Kais ENIT, Tunisia : https://www.youtube.com/watch?v=0GAK6AL4edI
+15:04:51	 From Paul's O'Neill - Ohio, USA : Jim is a retired US Navy sailer.
+15:06:29	 From Rico Kanthatham : submarine propulsion plant supervisor!!! wow!!!
+15:07:53	 From Kamp-Lintfort : https://www.acorntoarabella.com/https://youtu.be/xc9S6ybstHw
+15:08:16	 From Paul's O'Neill - Ohio, USA : Jim told me about cardboard boat race:  https://en.wikipedia.org/wiki/Cardboard_boat_race
+15:08:45	 From jorge javier : https://www.fluidinteractive.com/products/sketchup-extensions/viz/ is a some sort of grasshopper extension for sketchup
+15:09:39	 From Paul's O'Neill - Ohio, USA : Nuclear power - cream of the crop of the US Navy
+15:09:53	 From engineering : wow
+15:09:59	 From Rico Kanthatham : respect
+15:10:02	 From matthewsolah : Wow!!
+15:10:06	 From Daniele Ingrassia : Moahmed Ayoub is sick will not be joining this week review
+15:11:32	 From John Hosmer : Could I share?
+15:11:39	 From Adrián Torres (Fab Lab León) : I have an Extra Credit CNC work
+15:11:49	 From lardais "la machinerie" : could i share to?
+15:12:11	 From Lena Hagenauer : me to?
+15:18:45	 From Babken  : Ashot Margaryan Dilijan Lab
+15:19:17	 From Babken  : He has done a great job designing a Vespa Scooter
+15:21:45	 From Maciek Naskret : wow
+15:23:32	 From David : Lena, I'm fan of your work! I remember you from the laser cut week!
+15:24:21	 From Jin Cui Shanghai : Dugeon Master
+15:25:04	 From Pablo Fab Lab Leon : superb!
+15:25:11	 From Rico Kanthatham : mindblowing!
+15:25:43	 From Adrián Torres (Fab Lab León) : Great work Lena
+15:42:17	 From Kamp-Lintfort : Thumbs up for "Paul's O'Neils" greenscreen and wine production!
+15:46:54	 From Piotr : And wash your hands!
+16:01:18	 From Sol Bekic : Ben Eater has a really good YouTube series showing how processors work (and how to build a semi-descrete one) up from transitor level:
+https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU
+16:01:33	 From Sol Bekic : (more info here: https://eater.net/8bit)
+16:01:48	 From Daniil Koshelyuk : on Boolean logic fun implementation in domino chains: https://www.youtube.com/watch?v=OpLU__bhu2w 
+16:02:34	 From Nicolas Lefebvre : This comparison of inexpensive MCUs is really in depth and useful: https://jaycarlson.net/microcontrollers
+16:06:56	 From Paul's O'Neill - Ohio, USA : Adafruit shut down today
+16:07:05	 From Brigette : ^^
+16:08:23	 From Nicolas De Coster (ULB) : sometime (P)DIP can be usefull to use the other side of the PCB and make it "double side", thus smaller ;-)
+16:08:33	 From AgriLabQuarantineLab Luc : Tutorials of sparkfun/adafruit are great ressources for students.
+16:13:47	 From Sol Bekic : There is also a variation called "jtag2updi", which you can use with an Arduino rather than an FTDI cable
+16:13:53	 From Ferdi : Arduino Micro as UDPI programmer:https://www.youtube.com/watch?v=AL9vK_xMt4Ehttps://github.com/SpenceKonde/megaTinyCorehttps://github.com/SpenceKonde/jtag2updi/
+16:14:09	 From matthewsolah : Any kind of cereal? Will Raisin Bran do it or do the raisins clog up the electrons?
+16:21:24	 From Dan Meyer : can I use the atmel-ice to program my first arm progammer?
+16:21:46	 From Steven : Yes, you can
+16:21:55	 From Dan Meyer : cool I was right sam side thanks!
+16:24:15	 From Angel Leon (Yucatan) : With the experience that many of you have, what microcontroller do you recommend to my programmer?
+16:25:39	 From Steven : Which programmer did you make? ISP, uPDI, JTAG/SWD?
+16:25:53	 From Angel Leon (Yucatan) : isp
+16:26:31	 From benjaminscott : Link works for me
+16:26:43	 From manuelcorralesarana : What about for Mac users
+16:26:48	 From manuelcorralesarana : thanks
+16:28:09	 From hyejin : https://gitlab.cba.mit.edu/classes/863.19/site/blob/master/doc/programming_rec/programming_rec_slides.pdf
+16:28:27	 From hyejin : This one asked me to log in to CBA and it seems like I dont have an account
+16:29:25	 From Nicolas De Coster (ULB) : Does it mean there is no easy-way (for the moment) to do on-chip debugging on AVR-1 family without... Windows?
+16:30:37	 From Nicolas Lefebvre : In fact as far as I can tell (I tried to experiment with this last week) there's no obvious way to do on chip debugging without a real Atmel-ICE
+16:30:55	 From Nicolas Lefebvre : or at least I couldn't figure out how to use our simple serial-UPDI converters so far
+16:31:05	 From Steven : Top pic - ch340g ftdi/updi board. Lower 2 pics - ch330 fetid boards. 8-pin SOIC, easy to fabricate & minimal components.
+16:31:15	 From Jani Ylioja : Debugwire, while it's not as powerful
+16:31:54	 From Nicolas Lefebvre : 0-Series and 1-Series don't have Debugwire anymore, only UPDI
+16:32:04	 From Jani Ylioja : Oh, sorry, right
+16:35:35	 From Jesse Chen : core = bootloader?
+16:37:23	 From Nicolas Lefebvre : Arduino technically supports (some) C++, i.e. classes, operator new, etc... How much of that you want to use with a few kBs of RAM available is debatable :D
+16:41:22	 From Ben Shanghai : what does "faster" mean?
+16:42:18	 From Ben Shanghai : faster = faster to program or faster to operate?
+16:42:30	 From Jani Ylioja : You'll run out of resources easily with a litle more complicated programs using arduino libraries
+16:42:42	 From Jani Ylioja : Hence faster is better
+16:43:11	 From Jani Ylioja : it's using less clock cycles for the same job
+16:43:29	 From Nasser Owainat : @Ben Shanghai, Faster means faster to operate
+16:44:04	 From Steven : Program runs faster. Neil’s example - toggling an output pin - runs faster when program in avr-gcc, much slower when using arduino library.
+16:46:12	 From Ben Shanghai : "RC on reset" ???
+16:46:41	 From Jani Ylioja : no, filter or slowing down signal
+16:46:54	 From Jani Ylioja : resistor  and capasitor
+16:48:13	 From Daniil Koshelyuk : what happens if it doesn't turn on properly? just doesn't work or bricks?
+16:49:26	 From Steven : Just doesn’t start up properly, program may not work. IC still ok.
+16:49:55	 From Daniil Koshelyuk : ok thanks!
+16:51:47	 From Jesse Chen : do you have to use arduino to burn bootloader?
+16:52:28	 From Quentin Bolsee (ULB) : If you're interested in my hybrid UPDI/FTDI programmer with a D11C http://www.fabacademy.org/2020/labs/ulb/students/quentin-bolsee/assignments/week07/#d11c-updiftdi-programmer-eaglepython
+16:53:16	 From Quentin Bolsee (ULB) : it's gonna change a bit though. Stay tuned
+16:54:39	 From Steven : You use a programmer, which could be an arduino, your fabtinyisp, atmel ice, etc. Also depends on which chip, which programming protocol it uses.
+17:01:08	 From Ben Shanghai : where does it "import" from?
+17:01:37	 From Ben Shanghai : all the libraries are also loaded?
+17:02:09	 From AgriLabQuarantineLab Luc : wifi and Bluetooth for esp32 , and low power modes
+17:02:50	 From Frosti : Would it be ok to use Micro:bit connected to students custom made circuit board and use the micro:bit for bluetooth communication?
+17:03:38	 From Steven : You meant import for micro python? Could be precompiled library that’s part of the firmware or source code modules that you have loaded into the memory.
+17:04:47	 From Jani Ylioja : if no boards, simulators?
+17:04:54	 From Steven : @frosti: for assignments if your lab is on lockdown, to understand the toolchain. Not for final project, you need to make your own boards.
+17:05:24	 From Steven : If not access to boards, use Tinkecad circuits - great simulator (for t45 & arduino)
+17:05:36	 From Steven : Plenty of peripheral devices.
+17:05:40	 From Kris (Aalto Fablab) : There are 3 op-amps in the fab inventory. what are the main differences or any of those is good (for mono audio)
+17:06:01	 From Ferdi : My notes from today: https://git.hsrw.eu/ferdinand.meier/fablab/-/wikis/FabAc20_woche08
+17:06:24	 From Frosti : thank you Steven
+17:06:53	 From Adrián Torres (Fab Lab León) : Thank you Ferdi ;)
+17:07:00	 From Steven : The LM4871 is an audio amp
+17:07:22	 From Kris (Aalto Fablab) : thanks Steven
+17:08:02	 From Jani Ylioja : Kris, outside inventory, lm386 or tl072 would be something to check :)
+17:08:29	 From Jani Ylioja : At least I like those
+17:08:36	 From Kris (Aalto Fablab) : Cool. I will check all of them. Thanks Jani
+17:09:12	 From AgriLabQuarantineLab Luc : For audio amp , the main focus is the 3rd harmonic and noise.
+17:09:23	 From Piotr : Hands!!! :P
+17:09:43	 From Paul's O'Neill - Ohio, USA : I will probably be shaving my facial hair.
+17:10:00	 From Paul's O'Neill - Ohio, USA : Mask will fit better

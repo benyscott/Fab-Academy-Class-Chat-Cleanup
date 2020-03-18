@@ -1,22 +1,21 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[13]:
-
-
 # importing regular expression library
 import re
 
+# dominate library to easily create HTML pages in Python
+import dominate
+from dominate.tags import *
+from dominate.util import raw
 
-# In[14]:
+# date library to get date
+from datetime import date
 
+###################################### ACTUAL CODE ######################################
 
 # opening the chat file
 chat = open("meeting_saved_chat.txt")
-
-
-# In[15]:
-
 
 # creating a list to put all the messages in
 messages = []
@@ -31,17 +30,6 @@ for newline in chat:
     else:
         messages[-1] += newline
         # print(messages[-1])
-        
-
-
-# In[16]:
-
-
-# print(messages)
-
-
-# In[17]:
-
 
 # create a list for all the messages
 chat_list = []
@@ -58,22 +46,7 @@ for message in messages:
     chat_list.append(dict)
     
     #print(dict)
-
-
-# In[18]:
-
-
-#print(chat_list)
-
-
-# In[19]:
-
-
-import dominate
-from dominate.tags import *
-from dominate.util import raw
-
-from datetime import date
+    
 
 today = date.today()
 
@@ -95,18 +68,7 @@ with doc:
 
 #print(doc)
 
-
-# In[12]:
-
-
 # Saves the document in an HTML file
 html_file = open("chat-" + str(today) + ".html","w")
 html_file.write(str(doc))
 html_file.close()
-
-
-# In[ ]:
-
-
-
-

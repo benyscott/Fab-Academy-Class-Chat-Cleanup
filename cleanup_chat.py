@@ -15,7 +15,9 @@ from datetime import date
 ###################################### ACTUAL CODE ######################################
 
 # opening the chat file
-chat = open("meeting_saved_chat.txt")
+chat = open("meeting_saved_chat_19-03-Guillem.txt")
+
+today = date.today()
 
 # creating a list to put all the messages in
 messages = []
@@ -47,9 +49,6 @@ for message in messages:
     
     #print(dict)
     
-
-today = date.today()
-
 doc = dominate.document(title='Class chat of ' + today.strftime("%d/%m/%Y"))
 
 with doc.head:

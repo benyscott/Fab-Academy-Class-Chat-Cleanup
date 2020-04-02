@@ -1,0 +1,118 @@
+15:00:52	 From Sandy T : Dan meyer what are you cooking , it smeell's good
+15:08:55	 From Ísafjörður Iceland Þórarinn BB : I'm amazed by Dan ability to multitask!
+15:14:02	 From felicity : where is the link for mathematical models?
+15:14:41	 From benjaminscott : Where are those links he just showeD?
+15:15:21	 From Greg (Dassault) : http://cba.mit.edu/classes/index.html
+15:16:34	 From Brigette : thank you
+15:19:34	 From Paul O’Neill : https://www.bpsvibes.com/products/recycling-equipment/
+15:22:26	 From Matti Niinimäki : https://zenrobotics.com/ ai-powered robots for waste sorting from Finland (whatever that means)
+15:26:36	 From Jani Ylioja : Here is a link for the recycler sorter project: https://headrecyclesystems.com/
+15:27:18	 From Jani Ylioja : They did something you put on top of the bin and it has sensors to sort different plastics
+15:27:30	 From Jani Ylioja : pilot is going atm
+15:27:48	 From Jani Ylioja : unfortunately not too much info on sensors
+15:30:14	 From Luc Hanneuse - AgriLab : and the microphone exchange ...
+15:44:31	 From Saverio - Shanghai : Elfe from Shanghai made a very nice multitouch, with stuff she had at home cause she is in quarantine :D
+15:44:32	 From Saverio - Shanghai : http://fabacademy.org/2020/labs/oshanghai/students/yanfei-xu/
+15:44:53	 From Saverio - Shanghai : sure
+15:52:09	 From Dilijan Azniv : I am here
+15:52:30	 From benjaminscott : Speak up
+15:54:29	 From Saverio - Shanghai : Shreyas from Shanghai is also online now
+15:54:41	 From Saverio - Shanghai : http://fabacademy.org/2020/labs/oshanghai/students/shreyas-tiwari/
+15:58:15	 From Babken  : Neil Azniv has some connection problem
+15:58:29	 From Babken  : trying to fix it now
+15:58:59	 From Shreyas Tiwari, Shanghai : Hi Neil. I am ready to present now
+16:03:55	 From Hashim Al Sakkaf : u can see his idea sketch it in pricples and practice
+16:05:18	 From Javier Martínez Gaxiola : 16 OMG
+16:05:33	 From Maryam : For the SMD breadboard project, you could create a breadboard with different SMD socket sizes.Check this part:https://www.futureelectronics.com/p/interconnect--ic-sockets--plcc/plcc-68-at-adam-tech-5051107
+16:06:12	 From FABLAB TECSUP AREQUIPA : yeah 16 OoooooMG
+16:06:49	 From Javier Martínez Gaxiola : Great Documentation!!
+16:08:44	 From Ahmed Ibrahim (Fab Lab Egypt) : Thank you Maryam :D I will check it out
+16:10:23	 From William Megill : A challenge to us “old folks” indeed! :-)
+16:11:43	 From Farhan Shah Fablab khairpur : great echo :P 
+16:11:52	 From Ben Paris/Shanghai : that's called a doppler effect ;)
+16:12:03	 From Sandy T : ha ha very funny
+16:18:28	 From Adrián Torres (Fab Lab León) : I make a Hello Distance with a Time of Flight module sensor with the new ATtiny.
+16:18:36	 From Yume Menghe Xu - Kamakura : I would love to talk about what I did with MQ-3 if possible.
+16:19:37	 From David : Very cool!
+16:19:49	 From Wilhelm - UCAL : nice
+16:19:54	 From jorge javier : Good!
+16:19:58	 From baptiste "la machinerie" : great job
+16:20:13	 From benjaminscott : Very nice idea
+16:20:18	 From FABLAB TECSUP AREQUIPA : nice
+16:20:18	 From Shreyas : i would like to talk about homemade resistive touchpads
+16:20:34	 From Adrián Torres (Fab Lab León) : I make a Hello Distance with a Time of Flight module sensor with the new ATtiny.
+16:21:45	 From Rico Kanthatham : Meghe Xu at Kamakura did some fun work with Alcohol sensor while in lock down...she would like to present
+16:26:40	 From Paul O’Neill : might be useful to make eubillometer for winemaking!!!
+16:27:29	 From Suhas labade : Shreyas from Vigyan ashram wants to talk about his work 
+16:27:57	 From Jani Ylioja : Love it! :D
+16:28:15	 From Jani Ylioja : I want alcometer too!
+16:28:40	 From Yume Menghe Xu - Kamakura : get the 1 dollar MQ-3! :D
+16:30:01	 From jorge javier : Great!
+16:30:10	 From hyejin : Love it :)
+16:30:27	 From Nuria Robles : nice!!
+16:30:27	 From FABLAB TECSUP AREQUIPA : nice horse
+16:31:02	 From Adrián Torres (Fab Lab León) : Great work 
+16:31:50	 From May El-Dardiry : That's So Cool, Shreyas!
+16:32:21	 From Rico Kanthatham : nice job Shreyas!
+16:32:48	 From Rico Kanthatham : lockdown is really generating some creative solutions!
+16:49:14	 From Luc Hanneuse - AgriLab : what kind of material is it ?
+16:50:05	 From Dan Meyer : @ Neil please let us know the main site for the die cut face sheild
+16:50:33	 From Dan Meyer : we are currently making 4000 laser cut face shields.
+16:51:17	 From Dan Meyer : ok
+16:51:45	 From Ferdi : http://news.mit.edu/2020/face-shield-ppe-manufacture-covid-19-0331
+16:52:50	 From Maciek Naskret Twarda : https://hackaday.io/project/170481-laser-cut-medical-shield here nice design from our friend from north of Poland
+16:53:04	 From Maciek Naskret Twarda : of laser cutter design
+16:54:10	 From Dan Meyer : Thanks Ferdi and Maciek
+16:56:31	 From Javier Martínez Gaxiola : Wow
+16:59:23	 From Paul O’Neill in Ohio USA : Reminds me of timesharing
+17:01:06	 From decostern : StarWars in Telnet for "very simple graphics" : 
+telnet towel.blinkenlights.nl
+17:03:12	 From Luc Hanneuse - AgriLab : nice book of Bunnie : "The Hardware Hacker: Adventures in Making and Breaking Hardware"
+17:04:16	 From Paul O’Neill in Ohio USA : Bandwidth bits and pieces here
+17:04:38	 From Paul O’Neill in Ohio USA : better
+17:04:58	 From Paul O’Neill in Ohio USA : All good now
+17:07:29	 From pulkit : uhow far it can go
+17:07:35	 From Ishmael : send the documentation of one laptop per child link please 
+17:07:40	 From pulkit : ups , sry
+17:07:58	 From Pitaya : Are there ways to make an Open Source service, like wifi connection, accessible to anyone? If yes, is it legally permitted? I mean, is it considered as a donation or is it a problem for other main companies?
+17:08:38	 From Paul O’Neill in Ohio USA : “Legal”?  That depends upon where you are….
+17:09:11	 From pulkit : I don't think it is possible companies must pay for differet band width on which they brodcasrt
+17:09:39	 From Jani Ylioja : we have open wifi for anyone in Oulu
+17:09:50	 From Pitaya : One of the main problems is the certification
+17:09:51	 From Harm Vugt : For forrest fires you could look into LoRa to get the sensor data
+17:10:05	 From Harm Vugt : https://www.ept.ca/2017/06/lora-alliance-drives-strong-lorawan-protocol-deployments/lora-alliance-lorawan-coverage-map/
+17:10:26	 From Jari Laru : yep, https://www.ouka.fi/oulu/english/panoulu
+17:10:35	 From Jari Laru : free wifi descriptin in Oulu
+17:11:26	 From Jani Ylioja : I started my career by installing 6LowPan routers to those base stations :D
+17:12:32	 From Ferdi : https://www.hackster.io/news/fossasat-1-an-open-source-satellite-for-the-internet-of-things-7f31cab00ef5
+17:13:05	 From Pitaya : I wonder if the Open Source wouldn’t have to ask for making solutions, how would it be?
+17:13:23	 From Pitaya : How many human needs would be covered, like wifi
+17:15:30	 From Farhan Shah Fablab khairpur : what about Omni wheels
+17:16:50	 From pulkit : is it gyroroscoped control
+17:27:54	 From decostern : for coils and magnets : I open hard drives :-)
+17:31:48	 From Shreyas Tiwari, Shanghai : Manu Prakash has also made a really interesting centrifuge
+17:32:43	 From Angel Leon (Yucatan) : Is there a smaller rfid module? I am using RC522 it is big
+17:33:49	 From pulkit : pls post the pilisging technique also
+17:33:58	 From pulkit : polishing I mean
+17:34:12	 From La Machinerie - Jean-Baptiste : We currenly produce this one from Electrolab makerspace : https://forum.electrolab.fr/viewtopic.php?f=16&t=1869
+17:41:01	 From jorge javier : That is a great instrument!
+17:44:26	 From Ben Paris/Shanghai : what is the life expectancy of such a house?
+17:45:34	 From Rico Kanthatham : VUILD from Japan...shopbot architecture (FA grad Asako Okazaki works for them)https://prtimes.jp/main/html/rd/p/000000002.000031751.html
+17:48:28	 From henk : https://waag.org/en/project/hypermud sculpture emerge combining ancient earth building techniques with computer-generated design
+18:00:27	 From Ishmael : how limijted
+18:01:10	 From Ishmael : *how limited are we interms of the classes covered ? 
+18:02:17	 From Rico Kanthatham : FP project scheduling will be important...parts supply chain is very slow now...should order parts that can't be made early
+18:05:15	 From Roberto Broce : Our post system is not working either, getting materials has been really difficult 
+18:05:30	 From Paul O’Neill in Ohio USA : Stay well everyone!
+18:05:48	 From Ferdi : My notes from today: https://git.hsrw.eu/ferdinand.meier/fablab/-/wikis/FabAc20_woche10
+18:06:19	 From Adrián Torres (Fab Lab León) : Thank you Ferdi ;)
+18:06:20	 From Nuria Robles : thanks Ferdi!!
+18:06:57	 From Angel Leon (Yucatan) : thanks Ferdi
+18:07:22	 From Roberto Delgado : Thank you Ferdi!!!
+18:07:42	 From Pradnya Shindekar : 👍
+18:11:06	 From Pitaya : Is there a forum or a discord chat with all of the students to share suggestions?
+18:11:41	 From Antonio - OpenDot : Use the issue tracker on FabCloud
+18:11:47	 From Rico Kanthatham : @Pitaya...use the MCU zoom channel to have live collaboration
+18:11:47	 From Antonio - OpenDot : It’s made for that
+18:11:50	 From David : I think only the local ones (in BCN we have a RIOT and a telegram chat) and for global issue tracker and the mcu
+18:11:59	 From David : And I use the MCU chanel

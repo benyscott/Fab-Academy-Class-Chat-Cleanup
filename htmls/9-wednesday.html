@@ -1,0 +1,1106 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>9-wednesday</title>
+    <link href="custom.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content=""><meta name="author" content="">
+  </head>
+  <body class="brightTheme">
+    <label class="switch">
+      <input checked="checked" id="themeBtn" onclick="isChecked();" type="checkbox">
+      <span class="slider round"></span>
+    </label>
+    <main class="container">
+      <h1>X. WEEK CLASS</h1>
+      <h2>Type of Class</h2>
+      <div id="chat">
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Luc Hanneuse - AgriLab</span>
+            <span> said</span>
+          </div>
+          <div class="neu">it will be on the public video recording</div>
+          <div class="time">at 
+            <span class="from_name">14h11</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Pablo Fab Lab Leon</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Like a door to the Fab Lab World :)</div>
+          <div class="time">at 
+            <span class="from_name">14h12</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Luc Hanneuse - AgriLab</span>
+            <span> said</span>
+          </div>
+          <div class="neu">I mean anyone outside FabAcademy will see the adress and password on this video.</div>
+          <div class="time">at 
+            <span class="from_name">14h13</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Szily</span>
+            <span> said</span>
+          </div>
+          <div class="neu">I'm just wondering, labs fully closed how they suppose to prepare these class kits?</div>
+          <div class="time">at 
+            <span class="from_name">14h13</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Steven</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Mix of types of class kits, from those fabricated by labs that are open, commercial kits</div>
+          <div class="time">at 
+            <span class="from_name">14h14</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">henk</span>
+            <span> said</span>
+          </div>
+          <div class="neu">i let my students design boards, which i will mill and resend to them.</div>
+          <div class="time">at 
+            <span class="from_name">14h16</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">baptiste &quot;la machinerie&quot;</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Arduino kit could work?</div>
+          <div class="time">at 
+            <span class="from_name">14h16</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Greg (Dassault)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">@Baptiste: yes that's what we're doing</div>
+          <div class="time">at 
+            <span class="from_name">14h17</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Greg (Dassault)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Here's the kit we're using ($55 includes lots of sensors): https://www.amazon.com/EL-KIT-001-Project-Complete-Starter-Tutorial/dp/B01CZTLHGE/</div>
+          <div class="time">at 
+            <span class="from_name">14h18</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Steven</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Arduino kits fine, but do get students to design their boards as well. Hopefully, they will be able to fabricate them when labs reopen...</div>
+          <div class="time">at 
+            <span class="from_name">14h18</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Farhan Shah Fablab khairpur</span>
+            <span> said</span>
+          </div>
+          <div class="neu">do we need separate pcb for each week?</div>
+          <div class="time">at 
+            <span class="from_name">14h19</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Paul O’Neill @ Ohio, USA</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Some of these dev boards have open source files.  Explore.</div>
+          <div class="time">at 
+            <span class="from_name">14h20</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Steven</span>
+            <span> said</span>
+          </div>
+          <div class="neu">You could make MCU mainboard, with different daughter boards for the different input/output devices.</div>
+          <div class="time">at 
+            <span class="from_name">14h20</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Kris (Aalto Fablab)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Not sure how fast it the delivery, but there is a ATtiny412 breakout https://www.tindie.com/products/drazzy/attiny412402-dev-board-arduino-compatible/</div>
+          <div class="time">at 
+            <span class="from_name">14h27</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Paul O’Neill @ Ohio, USA</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Everyone, stop touching your face!!!</div>
+          <div class="time">at 
+            <span class="from_name">14h32</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Puneeth </span>
+            <span> said</span>
+          </div>
+          <div class="neu">much needed especially in these situations</div>
+          <div class="time">at 
+            <span class="from_name">14h38</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Puneeth </span>
+            <span> said</span>
+          </div>
+          <div class="neu">or hospitalised</div>
+          <div class="time">at 
+            <span class="from_name">14h38</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Pitaya</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Medplastic: https://www.medplastic.org/medplastic-conquista-il-velafestival-inizio-col-botto-a-santa-margherita/
+
+Precious Plastic, ilVespaio: https://www.instagram.com/ilvespaio.eu/
+
+Hackability: http://www.hackability.it/realizza/
+
+Analogical Memory of Digital Objects: https://www.facebook.com/MADDcatalogue/</div>
+          <div class="time">at 
+            <span class="from_name">14h48</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Harm Vugt</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Use a usb 2.0 hub on a mac</div>
+          <div class="time">at 
+            <span class="from_name">15h04</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">oliviademasi</span>
+            <span> said</span>
+          </div>
+          <div class="neu">I have the same issue</div>
+          <div class="time">at 
+            <span class="from_name">15h04</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Kris (Aalto Fablab)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Try to reinstall the FTDI drivers</div>
+          <div class="time">at 
+            <span class="from_name">15h05</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Pitaya</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Me too</div>
+          <div class="time">at 
+            <span class="from_name">15h06</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Harm Vugt</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Usb 2.0 I win!</div>
+          <div class="time">at 
+            <span class="from_name">15h06</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Kris (Aalto Fablab)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">https://www.ftdichip.com/FTDrivers.htm</div>
+          <div class="time">at 
+            <span class="from_name">15h07</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Kris (Aalto Fablab)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">https://www.ftdichip.com/Drivers/D2XX.htm</div>
+          <div class="time">at 
+            <span class="from_name">15h07</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">oliviademasi</span>
+            <span> said</span>
+          </div>
+          <div class="neu">I used the USB 2.0 but It didn’t work anyway</div>
+          <div class="time">at 
+            <span class="from_name">15h07</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Kris (Aalto Fablab)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">We had an issue with this and installing the D2XX drivers solved the problem</div>
+          <div class="time">at 
+            <span class="from_name">15h07</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">manuelcorralesarana</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Drivers for Mac?</div>
+          <div class="time">at 
+            <span class="from_name">15h08</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Kris (Aalto Fablab)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Sorry, the first link was off. here we go</div>
+          <div class="time">at 
+            <span class="from_name">15h09</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Kris (Aalto Fablab)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">https://www.ftdichip.com/Drivers/VCP.htm</div>
+          <div class="time">at 
+            <span class="from_name">15h09</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Kris (Aalto Fablab)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">https://www.ftdichip.com/Drivers/D2XX.htm</div>
+          <div class="time">at 
+            <span class="from_name">15h09</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Adrián Torres (Fab Lab León)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">I use FPGA</div>
+          <div class="time">at 
+            <span class="from_name">15h14</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Jani Ylioja</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Megumi Iwata in oulu made one nice orrary lamp</div>
+          <div class="time">at 
+            <span class="from_name">15h14</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Florent Lemaire</span>
+            <span> said</span>
+          </div>
+          <div class="neu">I use samd11c http://fabacademy.org/2020/labs/agrilab/students/florent-lemaire/assignments/week09/#9-embedded-programming</div>
+          <div class="time">at 
+            <span class="from_name">15h16</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Farhan Shah Fablab khairpur</span>
+            <span> said</span>
+          </div>
+          <div class="neu">parallel processing are best advantage of fpga</div>
+          <div class="time">at 
+            <span class="from_name">15h20</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Ben Shanghai</span>
+            <span> said</span>
+          </div>
+          <div class="neu">I would like to know if anyone knows how to use Docker for programming chips. </div>
+          <div class="time">at 
+            <span class="from_name">15h21</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Sol Bekic</span>
+            <span> said</span>
+          </div>
+          <div class="neu">@Ben Shanghai: I haven't done it, but it should be rather straightforward to use docker to *compile* code for MCUs. About programming i am not sure, but it is a bit more complicated for sure</div>
+          <div class="time">at 
+            <span class="from_name">15h22</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Sol Bekic</span>
+            <span> said</span>
+          </div>
+          <div class="neu">since docker is meant to isolate the container, and you need access to the USB or Serial port to program</div>
+          <div class="time">at 
+            <span class="from_name">15h22</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Ben Shanghai</span>
+            <span> said</span>
+          </div>
+          <div class="neu">yes that's the whole difficulty</div>
+          <div class="time">at 
+            <span class="from_name">15h23</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Sol Bekic</span>
+            <span> said</span>
+          </div>
+          <div class="neu">okay, i see :) I think a tty should be mountable as a volume, but I haven't tried it. That won't work for (non-serial) USB programmers though.</div>
+          <div class="time">at 
+            <span class="from_name">15h26</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Walter Lenigan</span>
+            <span> said</span>
+          </div>
+          <div class="neu">is the Arduino connected to a power bank?</div>
+          <div class="time">at 
+            <span class="from_name">15h28</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Sol Bekic</span>
+            <span> said</span>
+          </div>
+          <div class="neu">i wanted to, but couldn't get it due to covid :(</div>
+          <div class="time">at 
+            <span class="from_name">15h28</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Sol Bekic</span>
+            <span> said</span>
+          </div>
+          <div class="neu">next week!</div>
+          <div class="time">at 
+            <span class="from_name">15h28</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">&quot;Yume&quot; Menghe Xu - Kamakura</span>
+            <span> said</span>
+          </div>
+          <div class="neu">I did the blinking program with esp32</div>
+          <div class="time">at 
+            <span class="from_name">15h28</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Ben Shanghai</span>
+            <span> said</span>
+          </div>
+          <div class="neu">why a pull-up resistor? why no resistor?</div>
+          <div class="time">at 
+            <span class="from_name">15h53</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">John Hosmer</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Trying to understand... what types of inputs don't measure things? Or do all input devices measure?</div>
+          <div class="time">at 
+            <span class="from_name">15h54</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Ben Shanghai</span>
+            <span> said</span>
+          </div>
+          <div class="neu">you could connect it without a resistor, I mean</div>
+          <div class="time">at 
+            <span class="from_name">15h54</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Pablo Zuloaga Betancourt</span>
+            <span> said</span>
+          </div>
+          <div class="neu">is the pyroelectric 3.3v or 5v?</div>
+          <div class="time">at 
+            <span class="from_name">16h01</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Pablo Zuloaga Betancourt</span>
+            <span> said</span>
+          </div>
+          <div class="neu">thx</div>
+          <div class="time">at 
+            <span class="from_name">16h01</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Is-haq Mohammed</span>
+            <span> said</span>
+          </div>
+          <div class="neu">echo needs PWM ?</div>
+          <div class="time">at 
+            <span class="from_name">16h04</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Luc Hanneuse - AgriLab</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Microwave goes throught a certain amount of material (like wall ?) </div>
+          <div class="time">at 
+            <span class="from_name">16h04</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Steven</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Datasheet says 5 - 20V</div>
+          <div class="time">at 
+            <span class="from_name">16h04</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">benjaminscott</span>
+            <span> said</span>
+          </div>
+          <div class="neu">What is a low byte and a high byte?</div>
+          <div class="time">at 
+            <span class="from_name">16h05</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Steven</span>
+            <span> said</span>
+          </div>
+          <div class="neu">16-bit data, split into 2 x 8-bits (high byte + low byte)</div>
+          <div class="time">at 
+            <span class="from_name">16h05</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Ashot Margaryan</span>
+            <span> said</span>
+          </div>
+          <div class="neu">is there an easy way to detect temperature in distance</div>
+          <div class="time">at 
+            <span class="from_name">16h05</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">benjaminscott</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Thanks</div>
+          <div class="time">at 
+            <span class="from_name">16h05</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">benjaminscott to Antoine (Privately)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Excitant tout ca</div>
+          <div class="time">at 
+            <span class="from_name">16h08</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">benjaminscott to Antoine (Privately)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">De beaux inputs</div>
+          <div class="time">at 
+            <span class="from_name">16h08</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Antoine to benjaminscott (Privately)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">ouais à fond!</div>
+          <div class="time">at 
+            <span class="from_name">16h08</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Steven</span>
+            <span> said</span>
+          </div>
+          <div class="neu">ADC for t44/45, t412 is 10-bits, so need to read RES H, RES L (result high * 256 + result low)</div>
+          <div class="time">at 
+            <span class="from_name">16h08</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Nicolas De Coster (ULB)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">is earth magnetic field oriented vertically now?</div>
+          <div class="time">at 
+            <span class="from_name">16h09</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Joseph Zakarian</span>
+            <span> said</span>
+          </div>
+          <div class="neu">quick question any good alternatives to fritzing?</div>
+          <div class="time">at 
+            <span class="from_name">16h12</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Harm Vugt</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Temperature at distance, with ir sensor I guess. https://create.arduino.cc/projecthub/TheGadgetBoy/diy-a-5-minutes-contactless-oled-thermometer-with-arduino-857a1d</div>
+          <div class="time">at 
+            <span class="from_name">16h13</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Wilhelm - UCAL</span>
+            <span> said</span>
+          </div>
+          <div class="neu">you can use hall to measure the speed of a tool like an encoder</div>
+          <div class="time">at 
+            <span class="from_name">16h15</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">benjaminscott to anisaeva (Privately)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">boo</div>
+          <div class="time">at 
+            <span class="from_name">16h16</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">anisaeva to benjaminscott (Privately)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Yo</div>
+          <div class="time">at 
+            <span class="from_name">16h16</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">anisaeva to benjaminscott (Privately)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">wasssssssuuup</div>
+          <div class="time">at 
+            <span class="from_name">16h16</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">benjaminscott to anisaeva (Privately)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Not muc</div>
+          <div class="time">at 
+            <span class="from_name">16h16</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">benjaminscott to anisaeva (Privately)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">h</div>
+          <div class="time">at 
+            <span class="from_name">16h16</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">benjaminscott to anisaeva (Privately)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Enjoying this class, it’s quite exciting</div>
+          <div class="time">at 
+            <span class="from_name">16h16</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">benjaminscott to anisaeva (Privately)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">i want to measure things now</div>
+          <div class="time">at 
+            <span class="from_name">16h17</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">anisaeva to benjaminscott (Privately)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">are you kidding? Or its really interesting?</div>
+          <div class="time">at 
+            <span class="from_name">16h17</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">benjaminscott to anisaeva (Privately)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">No I’m loving it for real</div>
+          <div class="time">at 
+            <span class="from_name">16h18</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">benjaminscott to anisaeva (Privately)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Connecting the real world with computers and websites</div>
+          <div class="time">at 
+            <span class="from_name">16h19</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Jani Ylioja</span>
+            <span> said</span>
+          </div>
+          <div class="neu">unless current between measurement points, I don't think it works as wheatstone</div>
+          <div class="time">at 
+            <span class="from_name">16h20</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Ashot Margaryan</span>
+            <span> said</span>
+          </div>
+          <div class="neu">thanks</div>
+          <div class="time">at 
+            <span class="from_name">16h20</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Steven</span>
+            <span> said</span>
+          </div>
+          <div class="neu">@jani: you're measuring differential input voltages in a wheatstone bridge cct</div>
+          <div class="time">at 
+            <span class="from_name">16h22</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Steven</span>
+            <span> said</span>
+          </div>
+          <div class="neu">@joseph: alternative to fritzing for?</div>
+          <div class="time">at 
+            <span class="from_name">16h23</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Jani Ylioja</span>
+            <span> said</span>
+          </div>
+          <div class="neu">There is constant voltage left in neils circuit due reason I said. Yes in wheatstone you are :)</div>
+          <div class="time">at 
+            <span class="from_name">16h23</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Nicolas LEFEBVRE</span>
+            <span> said</span>
+          </div>
+          <div class="neu">You can actually test what Neil was saying really easily on 8 bit AVRs; add a f division in your Arduino code and see the size of the compiled program blow up. AVR doesn’t have hardware division so it just generates a bunch of code for it</div>
+          <div class="time">at 
+            <span class="from_name">16h24</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Daniil Koshelyuk</span>
+            <span> said</span>
+          </div>
+          <div class="neu">is it better to filter on the board or upon receiving?</div>
+          <div class="time">at 
+            <span class="from_name">16h30</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Daniil Koshelyuk</span>
+            <span> said</span>
+          </div>
+          <div class="neu">or just the matter of speed and size of code?</div>
+          <div class="time">at 
+            <span class="from_name">16h31</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Daniil Koshelyuk</span>
+            <span> said</span>
+          </div>
+          <div class="neu">thanks</div>
+          <div class="time">at 
+            <span class="from_name">16h32</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Pablo Zuloaga Betancourt</span>
+            <span> said</span>
+          </div>
+          <div class="neu">yes</div>
+          <div class="time">at 
+            <span class="from_name">16h38</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Adrián Torres (Fab Lab León)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">yes</div>
+          <div class="time">at 
+            <span class="from_name">16h38</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">FAB_ENIT0</span>
+            <span> said</span>
+          </div>
+          <div class="neu">yes</div>
+          <div class="time">at 
+            <span class="from_name">16h38</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">SREEDHAR R.P</span>
+            <span> said</span>
+          </div>
+          <div class="neu">yes</div>
+          <div class="time">at 
+            <span class="from_name">16h38</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">PULKIT (AKGEC FABLAB)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">yes</div>
+          <div class="time">at 
+            <span class="from_name">16h38</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Robin</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Is the quality of the sound registered by a MEMS microphone good or is it a little bit noisy?</div>
+          <div class="time">at 
+            <span class="from_name">16h41</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Robin</span>
+            <span> said</span>
+          </div>
+          <div class="neu">thank you</div>
+          <div class="time">at 
+            <span class="from_name">16h42</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">benjaminscott</span>
+            <span> said</span>
+          </div>
+          <div class="neu">what frequency to measure us?</div>
+          <div class="time">at 
+            <span class="from_name">16h49</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Is-haq Mohammed</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Is there an air pressure sensor? and flow rate</div>
+          <div class="time">at 
+            <span class="from_name">16h53</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">roger</span>
+            <span> said</span>
+          </div>
+          <div class="neu">The Oculus quest tracks hand movements now too</div>
+          <div class="time">at 
+            <span class="from_name">16h54</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Juan Miranda</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Neil, i would like to know about the sensor in automatic toll in the highways, also about the sensor in the new car keys that you just carry in your pocket.</div>
+          <div class="time">at 
+            <span class="from_name">16h54</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">LuisM Rodriguez</span>
+            <span> said</span>
+          </div>
+          <div class="neu">:O</div>
+          <div class="time">at 
+            <span class="from_name">16h57</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Roberto Broce</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Hi Neil! What about using a bluetooth sensor to measure distance? Good idea?</div>
+          <div class="time">at 
+            <span class="from_name">16h57</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Luc Hanneuse - AgriLab</span>
+            <span> said</span>
+          </div>
+          <div class="neu">be aware of the current consumption with esp32camera , and the small wifi range</div>
+          <div class="time">at 
+            <span class="from_name">16h58</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Sol Bekic</span>
+            <span> said</span>
+          </div>
+          <div class="neu">In JS with webGL you also have the ability to use the GPU for image processing</div>
+          <div class="time">at 
+            <span class="from_name">16h58</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Ferdi</span>
+            <span> said</span>
+          </div>
+          <div class="neu">pressure sensor: BME280</div>
+          <div class="time">at 
+            <span class="from_name">16h58</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">jorge javier</span>
+            <span> said</span>
+          </div>
+          <div class="neu">With a proximity sensor, I’ll be able to program change of color?</div>
+          <div class="time">at 
+            <span class="from_name">16h58</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">PULKIT (AKGEC FABLAB)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">ca you suggest some good advanced smoke sensor</div>
+          <div class="time">at 
+            <span class="from_name">17h00</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Steven</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Popular Color sensing - TCS3200 </div>
+          <div class="time">at 
+            <span class="from_name">17h01</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">jorge javier</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Thank you</div>
+          <div class="time">at 
+            <span class="from_name">17h01</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Oscar</span>
+            <span> said</span>
+          </div>
+          <div class="neu">smoke sensor: PMS5003 is a cheap option (planttower)</div>
+          <div class="time">at 
+            <span class="from_name">17h01</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">PULKIT (AKGEC FABLAB)</span>
+            <span> said</span>
+          </div>
+          <div class="neu">can this sensor be used as pollution sensor , as in ppm meter</div>
+          <div class="time">at 
+            <span class="from_name">17h02</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Oscar</span>
+            <span> said</span>
+          </div>
+          <div class="neu">yes. it is used in smartcitizen project in barcelona</div>
+          <div class="time">at 
+            <span class="from_name">17h02</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Steven</span>
+            <span> said</span>
+          </div>
+          <div class="neu">Smoke (dust) sensor - MPS5003, MQ135</div>
+          <div class="time">at 
+            <span class="from_name">17h02</span>
+          </div>
+        </div>
+        <div class="chat_message">
+          <div class="from_txt">
+            <span class="from_name">Oscar</span>
+            <span> said</span>
+          </div>
+          <div class="neu">a comparison of sensors here: https://doi.org/10.5194/amt-2019-422</div>
+          <div class="time">at 
+            <span class="from_name">17h03</span>
+          </div>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>

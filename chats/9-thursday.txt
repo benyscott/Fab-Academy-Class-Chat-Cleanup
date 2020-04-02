@@ -1,0 +1,64 @@
+10:08:40	 From Hala Alzawaydeh : hello nestorr <3
+10:13:02	 From FABACADEMY_BCN ZOOM : http://fabacademy.org/2020/labs/barcelona/local/#material/week09/
+10:21:14	 From FABACADEMY_BCN ZOOM : https://hackmd.io/RzTkiKoXTbqeQOn4Nz_zAw
+10:30:01	 From FABACADEMY_BCN ZOOM : https://upload.wikimedia.org/wikipedia/commons/7/7e/Hall_sensor_tach.gif
+10:36:38	 From LynnDika : are we seeing something specific on the screen?
+10:36:46	 From FABACADEMY_BCN ZOOM : no
+10:36:52	 From FABACADEMY_BCN ZOOM : for now just speech
+10:36:55	 From LynnDika : can we see his face?
+10:37:01	 From LynnDika : okey, i will ask
+10:37:13	 From LynnDika : nevermind
+10:37:25	 From natalia : Would be good
+11:07:28	 From benjaminscott : Same as on arduinos: https://esp32.com/viewtopic.php?t=11349
+11:12:04	 From LynnDika : is vice drawing something?
+11:12:11	 From benjaminscott : no
+11:14:44	 From benjaminscott : Use Ecosia, not DuckDuckGo: https://www.ecosia.org/
+11:14:59	 From Andrea Bertran : do they pay you?
+11:15:41	 From david : this is what i found about the pins of a ESP32 Wroom
+11:15:59	 From benjaminscott : @Andrea, not yet
+11:16:08	 From david : those are the pin definitions about those that have pull up ?
+11:16:18	 From Pablo Zuloaga Betancourt : @Victor, could you please share with us the link of your presentation
+11:16:32	 From benjaminscott : Pablo: https://hackmd.io/RzTkiKoXTbqeQOn4Nz_zAw
+11:16:49	 From Pablo Zuloaga Betancourt : Thx
+11:17:21	 From LynnDika : pinwheel?
+11:17:44	 From Andrea Bertran : https://duckduckgo.com/?t=ffab&q=pinwheel&atb=v204-1&iax=images&ia=images&iai=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fc04JYq5cA6c%2Fmaxresdefault.jpg
+11:18:41	 From LynnDika : thanks!
+11:31:50	 From benjaminscott : 255 no?
+11:32:08	 From FABACADEMY_BCN ZOOM : from 0 to 255
+11:32:17	 From FABACADEMY_BCN ZOOM : total of 256
+11:32:20	 From benjaminscott : (y)
+11:34:18	 From benjaminscott : so, in Victor’s documentation it should be 0 to 1023
+11:37:55	 From FABACADEMY_BCN ZOOM : analog 0 to 1023
+11:38:09	 From FABACADEMY_BCN ZOOM : digital 0-255 but pwm digital
+11:38:17	 From FABACADEMY_BCN ZOOM : raw digital is 0-1
+11:38:32	 From FABACADEMY_BCN ZOOM : PWM states to PULSE WITH MODULATION
+11:57:10	 From vico : youre right 0-1023
+12:10:16	 From benjaminscott : ESP32 - ADCs on the left - https://gitlab.fabcloud.org/barcelonaworkshops/barduino-2.0#what-is-barduino-20
+12:14:32	 From LynnDika : https://playtronica.com/
+12:15:02	 From LynnDika : a russian project based on sensory music
+12:15:40	 From Pablo Z : Like a Russian roulette to play it nowdays
+12:16:27	 From LynnDika : HAHAHA
+12:16:33	 From benjaminscott to Antoine (Privately) : Pour tes plantes, encore
+12:23:51	 From santifu : https://fabacademy.org/archives/2012/students/fuentemilla.santiago/final%20project.html
+12:26:25	 From santifu : https://la.disneyresearch.com/publication/touche-enhancing-touch-interaction-on-humans-screens-liquids-and-everyday-objects/
+12:27:00	 From FABACADEMY_BCN ZOOM : geeky russian roulette: https://www.cyberciti.biz/link/lmao-command-line-russian-roulette-for-linux-and-unix-users/
+12:27:16	 From FABACADEMY_BCN ZOOM : (don’t do it, just read)
+12:32:19	 From santifu : https://www.unfinishedman.com/noisy-jelly/
+12:56:43	 From FABACADEMY_BCN ZOOM : https://docs.smartcitizen.me/Components/Soil/
+13:04:58	 From Pablo Z : its a cool idea
+13:05:26	 From FABACADEMY_BCN ZOOM : https://www.youtube.com/watch?v=syKJg-vj3I8
+13:07:55	 From santifu : https://www.youtube.com/watch?v=NVclCHFY868
+13:18:01	 From FABACADEMY_BCN ZOOM : https://www.unfinishedman.com/noisy-jelly/
+13:18:18	 From FABACADEMY_BCN ZOOM : https://la.disneyresearch.com/publication/touche-enhancing-touch-interaction-on-humans-screens-liquids-and-everyday-objects/
+14:37:58	 From david : Fast and Furious Transform
+14:38:38	 From benjaminscott : haha
+14:38:39	 From benjaminscott : https://en.wikipedia.org/wiki/Fast_Fourier_transform
+14:39:12	 From david : I WANT MY VIN DIESEL MATHEMATICAL TRANSFORMATION
+14:42:22	 From FABACADEMY_BCN ZOOM : Fast and Furious Transform  hahaahhaahhhaahahahahahhaah
+14:42:23	 From david : Inverse Fast and the Fourious Transformation
+14:42:39	 From david : All can be solved with convolution. 
+14:42:47	 From david : It's the new magic
+14:43:42	 From FABACADEMY_BCN ZOOM : https://pics.me.me/she-wassending-me-mixed-signals-so-i-did-a-fourier-14007760.png
+14:43:53	 From FABACADEMY_BCN ZOOM : https://pbs.twimg.com/media/DBVimukUAAEZ442.jpg:large
+14:50:20	 From FABACADEMY_BCN ZOOM : https://learn.adafruit.com/experimenters-guide-for-metro/circ08-using%20the%20arduino%20serial%20plotter
+14:50:59	 From rugé : damn! so cool

@@ -1,0 +1,32 @@
+16:12:12	 From Marco Cataffo : would you mind copypasting this ink here in the chat?
+16:12:23	 From Marco Cataffo : *link
+16:13:28	 From FABACADEMY_BCN ZOOM : http://academany.fabcloud.io/fabacademy/2020/labs/barcelona/site/local/#material/extras/codeclub/pythonhardware/
+16:13:33	 From FABACADEMY_BCN ZOOM : https://gitlab.fabcloud.org/barcelonaworkshops/code-club/tree/2020/03_sensors_dsp
+16:34:42	 From Tue : git checkout is working in my case
+16:35:09	 From benjaminscott : or just do, in order:
+16:35:11	 From benjaminscott : git clone git@gitlab.fabcloud.org:barcelonaworkshops/code-club.git
+16:35:17	 From benjaminscott : And then cd code-club
+16:35:24	 From benjaminscott : and then git checkout 2020
+17:04:16	 From Daniil Koshelyuk : this is basically a rolling average, no?
+17:04:39	 From benjaminscott : I think so yes
+17:07:01	 From david : If all the numbers are one, yes, it's an average. 
+17:08:24	 From Marco Cataffo : I think that with the same procedure you could do averages, medians, means etc
+17:08:37	 From benjaminscott : yeah
+17:10:35	 From arman : what is src?
+17:15:55	 From Daniil Koshelyuk : why 0 not last or first value?
+17:22:27	 From david : Smooth Convolution was the discarded title of the song by Michael Jackson that ended being "Smooth Criminal". 
+17:35:26	 From david : at least I could open the serial monitor from he platform io, yay =D
+17:41:39	 From Tue : u can also type Control A + Control \
+17:41:45	 From Daniil Koshelyuk : control c won't work?
+17:41:55	 From benjaminscott to Marco Cataffo (Privately) : Not with the screen command
+17:42:02	 From Tue : control c only terminate running program
+17:42:02	 From benjaminscott : not with the screen command
+17:42:04	 From Daniil Koshelyuk : often in command line it helps
+17:42:17	 From Tue : to quit i used ctrl a + ctrl \
+17:52:31	 From Daniil Koshelyuk : on windows it is "conda activate environmentName"
+17:53:04	 From Daniil Koshelyuk : if you haven't made one "conda create --name environmentName"
+17:53:07	 From benjaminscott : I’m using pipenv and can’t seem to make it work
+17:54:38	 From Daniil Koshelyuk : oh that's cool
+18:00:33	 From benjaminscott : println = print line
+18:01:48	 From Daniil Koshelyuk : wouldn't just \n be enough?
+18:27:58	 From Daniil Koshelyuk : other slash

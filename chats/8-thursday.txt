@@ -1,0 +1,66 @@
+10:14:36	 From Eduardo Chamorro Martin : https://www.instructables.com/id/DIY-Mini-CNC-Laser-Engraver/
+10:17:08	 From Zoe : Edu can we buy these things from another place than Amazon?
+10:17:51	 From Eduardo Chamorro Martin : usually all the local electronic shops sell this kind of components
+10:18:10	 From Eduardo Chamorro Martin : why not amazon? it doesn't ship to your locatlion
+10:18:48	 From LynnDika to benjaminscott (Privately) : you look too happy, its crazy
+10:18:53	 From Eduardo Chamorro Martin : I will repeat again- please switch ON YOUR WEBCAM
+10:19:11	 From Eduardo Chamorro Martin : this is VIDEOCONFERENCE no a phone call
+10:19:30	 From Eduardo Chamorro Martin : it is really annoying to give a class just seing black screens
+10:19:32	 From FABACADEMY_BCN ZOOM : https://www.youtube.com/feed/my_videos
+10:19:55	 From FABACADEMY_BCN ZOOM : https://www.youtube.com/channel/UCHFNP9EAtbghMo5SQgahCiQ/videos
+10:20:05	 From LynnDika : I really don’t have a camera, sorry Eduard.
+10:20:25	 From Roger : same, i'm on the desktop
+10:21:41	 From antoine jaunard : hello everybody, my webcam isn't working as well :(
+10:33:45	 From Eduardo Chamorro Martin : https://platformio.org/
+10:34:42	 From Pablo Zuloaga Betancourt : AH ok…perf…I was in this one   https://platform.io/ (wrong one)
+10:34:42	 From David : Be easy on us! xD
+10:37:27	 From Hala Alzawaydeh : are we recording?
+10:37:41	 From natalia : yes
+10:37:55	 From natalia : I mean, recording is blinking on left corner
+10:37:57	 From Hala Alzawaydeh : please share after class
+10:38:00	 From Hala Alzawaydeh : awesome
+10:38:32	 From laurafreixasconde : Could we have this presentation?
+10:46:45	 From Tue : http://fabacademy.org/2020/labs/barcelona/local/#material/week04/
+10:46:49	 From Tue : I think it's here
+10:47:20	 From Tue : How To Make A Computer (Guillem)
+10:47:22	 From laurafreixasconde : yes, thank you:)
+10:48:04	 From FABACADEMY_BCN ZOOM : we are recording
+10:48:07	 From FABACADEMY_BCN ZOOM : don’t worry
+11:00:42	 From arman : https://www.computerhistory.org/babbage/
+11:01:39	 From Marco to benjaminscott (Privately) : wwwaasssuuuuuuuuuuup?
+11:02:06	 From benjaminscott to Marco (Privately) : wadddup
+11:02:34	 From benjaminscott to Marco (Privately) : Nice hair
+11:02:47	 From Marco to benjaminscott (Privately) : yeh
+11:06:27	 From FABACADEMY_BCN ZOOM : http://academany.fabcloud.io/fabacademy/2020/labs/barcelona/site/local/#material/week08/#references-and-resources
+11:19:28	 From arman : http://www.asciitable.com/
+11:20:33	 From benjaminscott : http://sticksandstones.kstrom.com/appen.html
+11:21:06	 From benjaminscott : ^ alphabet in binary
+11:28:00	 From arman : https://www.computerhistory.org/revolution/digital-logic/12/288/2220
+11:28:47	 From arman : https://youtu.be/d9SWNLZvA8g
+11:29:08	 From arman : From sand to IC
+11:35:57	 From Jonathan Minchin : Taiwan is the worlds Largest exporter of MicroChips
+11:43:02	 From Daniil Koshelyuk : I don't see a board
+11:43:15	 From Anisa : same
+11:55:32	 From arman : https://youtu.be/kRlSFm519Bo
+12:01:41	 From Daniil Koshelyuk : sorry guys I need to take a call we'll join right after
+12:09:21	 From antoine jaunard : Thanks a lot for this knowledge!
+12:09:36	 From David : the class is interesting = )
+12:40:15	 From emaitee : Does anyone have references/tutorials to understand the arduino chart we talked about?
+12:47:20	 From Pablo Zuloaga Betancourt : which chart Mit?
+12:47:32	 From emaitee : Compiling
+12:51:20	 From Eduardo Chamorro Martin : this is the link of all components we have in the lab 
+12:51:21	 From Eduardo Chamorro Martin : https://docs.google.com/a/iaac.net/spreadsheets/d/1U-jcBWOJEjBT5A0N84IUubtcHKMEMtndQPLCkZCkVsU/pub?single=true&gid=0&output=html
+12:51:28	 From Eduardo Chamorro Martin : the fab lab inventory
+12:51:40	 From Eduardo Chamorro Martin : for searching the links of the datasheet of each component
+12:54:16	 From Eduardo Chamorro Martin : https://docs.google.com/spreadsheets/d/1sFTE5KQ79W1_I_wtV3kmd_NE7NsWmIP_n8XURuQYVAE/edit#gid=1779571110
+12:56:06	 From guillem : http://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny1614-data-sheet-40001995A.pdf
+12:56:36	 From Andrea Bertran : 623 pages………………………………….
+13:05:01	 From Daniil Koshelyuk : why 64 if there are 8 pins?
+13:05:26	 From Daniil Koshelyuk : or 16*
+13:07:03	 From David : I/O registers can be more complex tan 1/0. I guess ^^U
+13:08:46	 From LynnDika : what time is the class tomorrow?
+13:09:06	 From antoine jaunard : 4kb*16 ?
+13:11:35	 From guillem : Just in case we haven't share it yet. Here the presentation I used today https://speakerdeck.com/pral2a/how-to-make-a-computer
+13:11:48	 From guillem : It will be compiled with the current documentation after
+13:12:41	 From laurafreixasconde : thank you very much!
+13:12:46	 From Daniil Koshelyuk : Thank you!!

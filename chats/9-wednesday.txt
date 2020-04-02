@@ -1,0 +1,114 @@
+14:11:38	 From Luc Hanneuse - AgriLab : it will be on the public video recording
+14:12:12	 From Pablo Fab Lab Leon : Like a door to the Fab Lab World :)
+14:13:12	 From Luc Hanneuse - AgriLab : I mean anyone outside FabAcademy will see the adress and password on this video.
+14:13:32	 From Szily : I'm just wondering, labs fully closed how they suppose to prepare these class kits?
+14:14:46	 From Steven : Mix of types of class kits, from those fabricated by labs that are open, commercial kits
+14:16:17	 From henk : i let my students design boards, which i will mill and resend to them.
+14:16:43	 From baptiste "la machinerie" : Arduino kit could work?
+14:17:06	 From Greg (Dassault) : @Baptiste: yes that's what we're doing
+14:18:14	 From Greg (Dassault) : Here's the kit we're using ($55 includes lots of sensors): https://www.amazon.com/EL-KIT-001-Project-Complete-Starter-Tutorial/dp/B01CZTLHGE/
+14:18:37	 From Steven : Arduino kits fine, but do get students to design their boards as well. Hopefully, they will be able to fabricate them when labs reopen...
+14:19:17	 From Farhan Shah Fablab khairpur : do we need separate pcb for each week?
+14:20:01	 From Paul O’Neill @ Ohio, USA : Some of these dev boards have open source files.  Explore.
+14:20:40	 From Steven : You could make MCU mainboard, with different daughter boards for the different input/output devices.
+14:27:43	 From Kris (Aalto Fablab) : Not sure how fast it the delivery, but there is a ATtiny412 breakout https://www.tindie.com/products/drazzy/attiny412402-dev-board-arduino-compatible/
+14:32:23	 From Paul O’Neill @ Ohio, USA : Everyone, stop touching your face!!!
+14:38:05	 From Puneeth  : much needed especially in these situations
+14:38:39	 From Puneeth  : or hospitalised
+14:48:05	 From Pitaya : Medplastic: https://www.medplastic.org/medplastic-conquista-il-velafestival-inizio-col-botto-a-santa-margherita/
+
+Precious Plastic, ilVespaio: https://www.instagram.com/ilvespaio.eu/
+
+Hackability: http://www.hackability.it/realizza/
+
+Analogical Memory of Digital Objects: https://www.facebook.com/MADDcatalogue/
+15:04:47	 From Harm Vugt : Use a usb 2.0 hub on a mac
+15:04:56	 From oliviademasi : I have the same issue
+15:05:01	 From Kris (Aalto Fablab) : Try to reinstall the FTDI drivers
+15:06:10	 From Pitaya : Me too
+15:06:44	 From Harm Vugt : Usb 2.0 I win!
+15:07:03	 From Kris (Aalto Fablab) : https://www.ftdichip.com/FTDrivers.htm
+15:07:08	 From Kris (Aalto Fablab) : https://www.ftdichip.com/Drivers/D2XX.htm
+15:07:14	 From oliviademasi : I used the USB 2.0 but It didn’t work anyway
+15:07:39	 From Kris (Aalto Fablab) : We had an issue with this and installing the D2XX drivers solved the problem
+15:08:23	 From manuelcorralesarana : Drivers for Mac?
+15:09:31	 From Kris (Aalto Fablab) : Sorry, the first link was off. here we go
+15:09:33	 From Kris (Aalto Fablab) : https://www.ftdichip.com/Drivers/VCP.htm
+15:09:39	 From Kris (Aalto Fablab) : https://www.ftdichip.com/Drivers/D2XX.htm
+15:14:23	 From Adrián Torres (Fab Lab León) : I use FPGA
+15:14:39	 From Jani Ylioja : Megumi Iwata in oulu made one nice orrary lamp
+15:16:05	 From Florent Lemaire : I use samd11c http://fabacademy.org/2020/labs/agrilab/students/florent-lemaire/assignments/week09/#9-embedded-programming
+15:20:27	 From Farhan Shah Fablab khairpur : parallel processing are best advantage of fpga
+15:21:29	 From Ben Shanghai : I would like to know if anyone knows how to use Docker for programming chips. 
+15:22:16	 From Sol Bekic : @Ben Shanghai: I haven't done it, but it should be rather straightforward to use docker to *compile* code for MCUs. About programming i am not sure, but it is a bit more complicated for sure
+15:22:35	 From Sol Bekic : since docker is meant to isolate the container, and you need access to the USB or Serial port to program
+15:23:03	 From Ben Shanghai : yes that's the whole difficulty
+15:26:16	 From Sol Bekic : okay, i see :) I think a tty should be mountable as a volume, but I haven't tried it. That won't work for (non-serial) USB programmers though.
+15:28:02	 From Walter Lenigan : is the Arduino connected to a power bank?
+15:28:05	 From Sol Bekic : i wanted to, but couldn't get it due to covid :(
+15:28:08	 From Sol Bekic : next week!
+15:28:27	 From "Yume" Menghe Xu - Kamakura : I did the blinking program with esp32
+15:53:51	 From Ben Shanghai : why a pull-up resistor? why no resistor?
+15:54:08	 From John Hosmer : Trying to understand... what types of inputs don't measure things? Or do all input devices measure?
+15:54:11	 From Ben Shanghai : you could connect it without a resistor, I mean
+16:01:35	 From Pablo Zuloaga Betancourt : is the pyroelectric 3.3v or 5v?
+16:01:57	 From Pablo Zuloaga Betancourt : thx
+16:04:07	 From Is-haq Mohammed : echo needs PWM ?
+16:04:17	 From Luc Hanneuse - AgriLab : Microwave goes throught a certain amount of material (like wall ?) 
+16:04:42	 From Steven : Datasheet says 5 - 20V
+16:05:13	 From benjaminscott : What is a low byte and a high byte?
+16:05:39	 From Steven : 16-bit data, split into 2 x 8-bits (high byte + low byte)
+16:05:46	 From Ashot Margaryan : is there an easy way to detect temperature in distance
+16:05:47	 From benjaminscott : Thanks
+16:08:11	 From benjaminscott to Antoine (Privately) : Excitant tout ca
+16:08:19	 From benjaminscott to Antoine (Privately) : De beaux inputs
+16:08:29	 From Antoine to benjaminscott (Privately) : ouais à fond!
+16:08:51	 From Steven : ADC for t44/45, t412 is 10-bits, so need to read RES H, RES L (result high * 256 + result low)
+16:09:46	 From Nicolas De Coster (ULB) : is earth magnetic field oriented vertically now?
+16:12:33	 From Joseph Zakarian : quick question any good alternatives to fritzing?
+16:13:23	 From Harm Vugt : Temperature at distance, with ir sensor I guess. https://create.arduino.cc/projecthub/TheGadgetBoy/diy-a-5-minutes-contactless-oled-thermometer-with-arduino-857a1d
+16:15:57	 From Wilhelm - UCAL : you can use hall to measure the speed of a tool like an encoder
+16:16:06	 From benjaminscott to anisaeva (Privately) : boo
+16:16:30	 From anisaeva to benjaminscott (Privately) : Yo
+16:16:36	 From anisaeva to benjaminscott (Privately) : wasssssssuuup
+16:16:40	 From benjaminscott to anisaeva (Privately) : Not muc
+16:16:41	 From benjaminscott to anisaeva (Privately) : h
+16:16:48	 From benjaminscott to anisaeva (Privately) : Enjoying this class, it’s quite exciting
+16:17:09	 From benjaminscott to anisaeva (Privately) : i want to measure things now
+16:17:22	 From anisaeva to benjaminscott (Privately) : are you kidding? Or its really interesting?
+16:18:52	 From benjaminscott to anisaeva (Privately) : No I’m loving it for real
+16:19:06	 From benjaminscott to anisaeva (Privately) : Connecting the real world with computers and websites
+16:20:08	 From Jani Ylioja : unless current between measurement points, I don't think it works as wheatstone
+16:20:34	 From Ashot Margaryan : thanks
+16:22:21	 From Steven : @jani: you're measuring differential input voltages in a wheatstone bridge cct
+16:23:10	 From Steven : @joseph: alternative to fritzing for?
+16:23:11	 From Jani Ylioja : There is constant voltage left in neils circuit due reason I said. Yes in wheatstone you are :)
+16:24:35	 From Nicolas LEFEBVRE : You can actually test what Neil was saying really easily on 8 bit AVRs; add a f division in your Arduino code and see the size of the compiled program blow up. AVR doesn’t have hardware division so it just generates a bunch of code for it
+16:30:56	 From Daniil Koshelyuk : is it better to filter on the board or upon receiving?
+16:31:12	 From Daniil Koshelyuk : or just the matter of speed and size of code?
+16:32:11	 From Daniil Koshelyuk : thanks
+16:38:00	 From Pablo Zuloaga Betancourt : yes
+16:38:17	 From Adrián Torres (Fab Lab León) : yes
+16:38:20	 From FAB_ENIT0 : yes
+16:38:25	 From SREEDHAR R.P : yes
+16:38:26	 From PULKIT (AKGEC FABLAB) : yes
+16:41:58	 From Robin : Is the quality of the sound registered by a MEMS microphone good or is it a little bit noisy?
+16:42:40	 From Robin : thank you
+16:49:29	 From benjaminscott : what frequency to measure us?
+16:53:33	 From Is-haq Mohammed : Is there an air pressure sensor? and flow rate
+16:54:00	 From roger : The Oculus quest tracks hand movements now too
+16:54:20	 From Juan Miranda : Neil, i would like to know about the sensor in automatic toll in the highways, also about the sensor in the new car keys that you just carry in your pocket.
+16:57:44	 From LuisM Rodriguez : :O
+16:57:51	 From Roberto Broce : Hi Neil! What about using a bluetooth sensor to measure distance? Good idea?
+16:58:05	 From Luc Hanneuse - AgriLab : be aware of the current consumption with esp32camera , and the small wifi range
+16:58:06	 From Sol Bekic : In JS with webGL you also have the ability to use the GPU for image processing
+16:58:40	 From Ferdi : pressure sensor: BME280
+16:58:45	 From jorge javier : With a proximity sensor, I’ll be able to program change of color?
+17:00:41	 From PULKIT (AKGEC FABLAB) : ca you suggest some good advanced smoke sensor
+17:01:12	 From Steven : Popular Color sensing - TCS3200 
+17:01:46	 From jorge javier : Thank you
+17:01:56	 From Oscar : smoke sensor: PMS5003 is a cheap option (planttower)
+17:02:44	 From PULKIT (AKGEC FABLAB) : can this sensor be used as pollution sensor , as in ppm meter
+17:02:58	 From Oscar : yes. it is used in smartcitizen project in barcelona
+17:02:59	 From Steven : Smoke (dust) sensor - MPS5003, MQ135
+17:03:05	 From Oscar : a comparison of sensors here: https://doi.org/10.5194/amt-2019-422
